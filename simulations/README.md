@@ -1,4 +1,4 @@
-# filament_simulation
+# oxRNA simulations of RNA nanotubes
 
 ## Scripts
 
