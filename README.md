@@ -1,4 +1,2 @@
-# RNAcytoskeleton
-codes used in paper: Genetic encoding and expression of RNA origami cytoskeletons in synthetic cells
-
-Codes used to generate oxRNA structures from pdb files can be found at https://github.com/ErikPoppleton/filament_simulation
+# RNA Cytoskeleton
+Code used in paper: Genetic encoding and expression of RNA origami cytoskeletons in synthetic cells.  Data processing for figures 3, 5 and the SI can be found in the respective folders.  Simulation setup and postprocessing code can be found in the simulations directory.  Raw data can be accessed via Hei-Data at [https://doi.org/10.11588/data/LJLAMX](https://doi.org/10.11588/data/LJLAMX).
